@@ -1,0 +1,11 @@
+#basic-img {
+    width:540px; /* you can use % */
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#caption {
+    text-align: center;
+}
